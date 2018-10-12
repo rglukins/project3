@@ -1,0 +1,18 @@
+.video-card-padding {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.video-card{
+    width: 450px;
+    height: 400px;
+}
+
+
+#wrapper {
+    width:700px;
+    clear:both;
+  }
+
